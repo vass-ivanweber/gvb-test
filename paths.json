@@ -1,10 +1,5 @@
 {
   "mappings": [
-    "/content/gvb-test/:/",
-    "/content/gvb-test/configuration:/.helix/config.json",
-    "/content/gvb-test/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/gvb-test/"
+    "/content/gvb-test/:/"
   ]
 }
